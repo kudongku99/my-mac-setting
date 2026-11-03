@@ -1,0 +1,6 @@
+[tools]
+go = "latest"
+java = "temurin-17"
+maven = "latest"
+node = "lts"
+pnpm = "latest"
